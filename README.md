@@ -13,3 +13,12 @@ delete individual sets, and clear the database.
 - Redis
 - Redis-py library
 - Ubuntu Linux
+
+
+## Week 2 - MongoDB Document Database
+
+### AmazonReviewManager.py
+
+This Python application uses PyMongo to perform CRUD operations on the Amazon MongoDB database and ReviewData collection. It includes an interactive menu that allows users to add reviews, retrieve documents, search by star ratings or keywords, update review fields, delete individual documents, delete all documents, and remove the collection.
+
+**Assignment:** 2.5 Performance Assessment - Python Application Accessing a Document Database
